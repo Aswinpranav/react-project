@@ -1,1 +1,15 @@
-hi
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <h1>Welcome to GMart</h1>
+      <br></br>
+      <button>Submit</button>
+    </div>
+  );
+}
+
+export default App;
+
